@@ -1,0 +1,45 @@
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csprojResolveAssemblyReference.cache
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmPrincipal.resources
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.Properties.Resources.resources
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csproj.GenerateResource.Cache
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\elilize\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmContas.resources
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmContas.resources
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmPrincipal.resources
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.Properties.Resources.resources
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\SistemaDeControleDeDespesas - Aula 07\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmCategorias.resources
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmContas.resources
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmCategorias.resources
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmPrincipal.resources
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.Properties.Resources.resources
+C:\Users\eduardo\Desktop\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csproj.GenerateResource.Cache
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe.config
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.exe
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\bin\Debug\SistemaDeControleDeDespesas.pdb
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmContas.resources
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmCategorias.resources
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.frmPrincipal.resources
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.Properties.Resources.resources
+C:\Users\eduardo\Desktop\Atividades Extra - VSC2\Aula 08\Trabalho Final\SistemaDeControleDeDespesas\SistemaDeControleDeDespesas\obj\Debug\SistemaDeControleDeDespesas.csproj.GenerateResource.Cache

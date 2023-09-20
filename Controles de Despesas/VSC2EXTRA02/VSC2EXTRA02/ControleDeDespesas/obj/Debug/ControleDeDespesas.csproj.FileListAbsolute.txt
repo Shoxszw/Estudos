@@ -1,0 +1,5 @@
+C:\Documentos\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config
+D:\1-DESENVOLVIMENTO\5- Visual Studio 2012 CSharp - Intermediário\1- Estruturas\Aula 01 - Consultório\Atividade Extra\Trabalho Final\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config
+W:\Visual Studio 2012 CSharp - Intermediário\1. Conceituação\4. Estrutura de Aulas\Aula 01 - OK\Documentos\Apostila\Atividade Extra\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config
+C:\Users\Maely\Desktop\AtividadeExtra\Aula 01\Atividade Extra\Atividade Extra\ControleDeDespesas - final aula 01\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config
+C:\Users\Maely\Desktop\Maely\AtividadeExtra\Aula 02\Aula 02\ControleDeDespesas -INICIAL\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config

@@ -1,0 +1,9 @@
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe.config
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.exe
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\bin\Debug\ControleDeDespesas.pdb
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.frmPrincipal.resources
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.Properties.Resources.resources
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.exe
+C:\Users\Giovana\Desktop\Aula 02\Trabalho Final\ControleDeDespesas\ControleDeDespesas\obj\Debug\ControleDeDespesas.pdb
